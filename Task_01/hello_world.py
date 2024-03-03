@@ -1,13 +1,10 @@
-# ask for the user's name
-# then print the answer
-# ask for the user's age
-# then print the answer
-# finally, print the string "Hello World!"
-
+# Ask for the user's name and print the answer.
 name = input("What's your name? ")
 print("Hello, " + name)
 
+# Ask for the user's age and print the answer.
 age = input("How old are you? ")
 print("Your age is " + age)
 
+# Print the string "Hello World!".
 print("Hello World!")
